@@ -51,8 +51,6 @@ Coming soon!
 
 ## 📫 Contact Me:
 - **Email**: [mail@awselliottai.com](mailto:mail@awselliottai.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)  
 ---
 
 ## 📂 Explore My Repositories:
