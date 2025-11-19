@@ -1,8 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![AWS Certified Badge](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-blue?logo=amazonaws&style=flat-square)
-
-
+![AWS Certified Badge](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-blue?logo=amazonaws\&style=flat-square)
 
 # Elliott Marquez — AI Systems & Development
 
@@ -29,10 +27,10 @@ Proficient with the **AI SDK** (Anthropic, xAI, and OpenAI), I design streaming 
 
 My applications combine:
 
-* **Streaming chat interfaces** that process messages and images concurrently
-* **Vision model analysis** in TypeScript-based Next.js environments
-* **Embedding and retrieval systems** using **OpenAI** or **Voyage AI** vectors stored in **Postgres**
-* **RAG and contextual response frameworks** optimized for precision and interpretability
+* **Streaming chat interfaces**
+* **Vision-model analysis** in TypeScript-based Next.js environments
+* **Embedding storage & retrieval** using OpenAI or Voyage vectors inside **Postgres**
+* **RAG-based contextual responses** engineered for precision and interpretability
 
 These systems unify multimodal perception and structured reasoning to produce fast, reliable, and deeply informative results.
 
@@ -41,15 +39,14 @@ These systems unify multimodal perception and structured reasoning to produce fa
 ### 🎨 Interface & Interaction Design
 
 Using **React**, **Tailwind CSS**, and **Next.js**, I create interfaces that make complex AI behavior legible and intuitive.
-Many of my front ends support **real-time streaming**, **image-driven chat**, and **dynamic context visualization**, allowing users to explore and refine outputs interactively.
-The goal is always to blend usability with transparency—systems that both perform and explain their reasoning.
+Many of my front ends support real-time AI streaming, image-driven chat, and dynamic context visualization.
 
 ---
 
 ### 🧩 Data Engineering & Automation
 
-Experienced with **Python**, **pandas**, and open-source ETL tools, I implement data pipelines that support semantic search, contextual embeddings, and AI-powered analytics.
-I favor efficient, open-source solutions first, scaling to managed cloud services only when demand or performance truly warrant it.
+Experienced with **Python**, **pandas**, and open-source ETL tooling, I build pipelines supporting semantic search, contextual embeddings, and AI-powered analytics.
+I favor efficient, open-source solutions, scaling to managed cloud services only when the workload truly warrants it.
 
 ---
 
@@ -59,34 +56,51 @@ I favor efficient, open-source solutions first, scaling to managed cloud service
 TypeScript / JavaScript (ESNext) • Python • SQL (Postgres, Drizzle ORM) • React / Next.js / Tailwind CSS
 
 **AI & Data Tooling**
-AI SDK (Anthropic, xAI, OpenAI) • Voyage AI & OpenAI Embeddings • RAG Pipelines • Vision & Multimodal Models • ElevenLabs (TTS) • Node-based orchestration and streaming
+AI SDK (Anthropic, xAI, OpenAI) • Voyage AI & OpenAI Embeddings • RAG Pipelines • Vision & Multimodal Models • ElevenLabs TTS • Node-based orchestration & streaming
 
 **Infra & Deployment**
-Vercel • Cloudflare Workers • Neon Postgres • Docker • WSL • Linux automation
+Vercel • Neon Postgres • Cloudflare Workers • Docker • WSL • Linux automation
+
+---
+
+## Featured Project
+
+### **Persistent Chat by ID — Next.js + Vercel AI SDK + Neon Postgres**
+
+A compact but production-ready system demonstrating:
+
+* Real-time streamed AI chat using the Vercel AI SDK
+* Durable conversation storage in **Neon Postgres**
+* Automatic title generation
+* Retrieval of past conversations via unique IDs
+* Configurable system prompts for adaptable behavior
+
+This project serves as a clean, extensible reference architecture for persistent AI chat applications, and can be used as a foundation for more advanced frameworks such as multi-agent orchestration, RAG-backed conversations, and stateful reasoning pipelines.
+
+🔗 **Repo:** [https://github.com/awselliottai/persistent-chat-by-id](https://github.com/awselliottai/persistent-chat-by-id)
 
 ---
 
 ## Engineering Approach
 
-My engineering philosophy centers on **clarity, adaptability, and traceability**.
-I design systems that are not only powerful but also transparent in how they reason—balancing human readability with machine precision.
-
-Recent work, such as multi-agent orchestration and multimodal reasoning environments, reflects that commitment: modular, interpretable, and scalable by design.
+My work centers on **clarity, adaptability, and traceability**.
+I build systems that are powerful yet transparent in how they reason—balancing machine precision with human readability.
 
 ---
 
 ## Current Interests
 
-* Adaptive AI frameworks and agentic orchestration
-* Real-time streaming chat and vision-augmented dialogue systems
+* Adaptive agent frameworks and orchestration
+* Real-time streaming chat and multimodal dialogue
 * Context-aware retrieval and RAG optimization
 * Generative UIs and TTS-integrated experiences
-* Efficient local-to-cloud hybrid deployments
+* Efficient hybrid local/cloud pipelines
 
 ---
 
 ## Contact
 
-If you’re interested in **AI-driven architecture**, **multimodal reasoning**, or **interactive intelligent systems**, feel free to connect or open a discussion.
+If you're interested in **AI-driven architecture**, **multimodal reasoning**, or **interactive intelligent systems**, feel free to reach out or open a discussion.
 
 > “Clarity in structure and language leads to clarity in intelligence.”
+
