@@ -2,7 +2,7 @@
 
 ![AWS Certified Badge](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-blue?logo=amazonaws\&style=flat-square)
 
-# Elliott Marquez — AI Systems & Development
+# Elliott A. Marquez — AI Systems & Development
 
 Welcome. I design and build systems that merge **AI architecture**, **language understanding**, and **human-centered interaction**.
 My work connects structured reasoning, responsive design, and real-time multimodal analysis—turning data, imagery, and language into cohesive, interactive experiences.
